@@ -1,0 +1,45 @@
+/* --- NAVBAR --- */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: fixed;
+  margin-top: 2vw;
+}
+
+li {
+  display: inline;
+}
+
+.search {
+  padding-left: 85vw;
+}
+
+.menu {
+  padding-left: 56.2vw;
+  
+}
+
+.react-icons {
+  vertical-align: middle;
+}
+
+.searchbar {
+  width: 130px;
+  margin-left: 8px;
+}
+
+.logo {
+  text-decoration: none;
+  color: black;
+  font-weight: 700;
+  font-size: 22px;
+  margin-left: 3vw;
+}
+
+
+
+/* --- footer --- */
+
+
+

@@ -1,0 +1,127 @@
+@font-face {
+  font-family: 'HelveticaNow';
+  src: url('HelveticaNowText-Medium.ttf');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+.flex-container {
+    display: flex;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  h2 {
+    font-family: 'HelveticaNow';
+    font-size: 30px;
+  }
+
+  h3 {
+    font-family: 'HelveticaNow';
+    font-size: 40px;
+  }
+
+  .inleiding {
+    font-size: 14px;
+    width: 500px;
+    color: gray;
+  }
+
+  p {
+    font-size: 14px;
+    color: gray;
+    margin-top: 8px;
+  }
+
+  .flex-container > div {
+
+    font-size: 30px;
+  }
+
+  .plant-image {
+    width: 38vw;
+    height: 52vw;
+    padding-left: 20vw;
+  }
+
+  .info {
+    padding-top: 2vw;
+  }
+
+  .left {
+    position: absolute;
+  }
+
+  .latinname {
+    transform: rotate(-90deg);
+    margin-top: 23vw;
+    margin-right: 500px;
+
+
+  }
+
+  .right {
+    padding-left: 4vw;
+    padding-top: 6vw;
+  }
+
+  .lijn {
+    width: 5vw;
+    margin-bottom: 3vw;
+  }
+
+  .icon-container {
+    display: flex;
+  }
+
+  .icon {
+    padding-top: 0.5vw;
+  }
+
+  .text {
+    padding-left: 1vw;
+  }
+  
+  .icon-container {
+    font-size: 12px;
+    margin-right: 5vw;
+  }
+
+  .image-horizontal {
+    width: 18vw;
+    margin-left: -2vw;
+  }
+
+  .image-horizontal2 {
+    width: 18vw;
+    margin-left: 2vw;
+  }
+
+  .infofooter {
+    display: flex;
+    margin-top: 1vw;
+  }
+
+  .plantnumber {
+    margin-left: 24vw;
+    font-size: 22px;
+  }
+
+  .icon-row {
+    display: flex;
+  }
+
+  .image-container {
+    margin-top: 5vw;
+  }
+
+  .icon-arrow1 {
+    margin-top: 1vw;
+    margin-left: -1vw;
+  }
+
+  .icon-arrow2 {
+    margin-top: 1vw;
+    margin-left: 2vw;
+  }
