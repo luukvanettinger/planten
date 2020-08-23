@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/planten/static/css/main.75c7502f.chunk.css",
+    "main.js": "/planten/static/js/main.e6465c96.chunk.js",
+    "main.js.map": "/planten/static/js/main.e6465c96.chunk.js.map",
+    "runtime-main.js": "/planten/static/js/runtime-main.832b2cf0.js",
+    "runtime-main.js.map": "/planten/static/js/runtime-main.832b2cf0.js.map",
+    "static/js/2.5f84d2d5.chunk.js": "/planten/static/js/2.5f84d2d5.chunk.js",
+    "static/js/2.5f84d2d5.chunk.js.map": "/planten/static/js/2.5f84d2d5.chunk.js.map",
+    "index.html": "/planten/index.html",
+    "precache-manifest.51debe601ecd33766d099f1f2bd1ddeb.js": "/planten/precache-manifest.51debe601ecd33766d099f1f2bd1ddeb.js",
+    "service-worker.js": "/planten/service-worker.js",
+    "static/css/main.75c7502f.chunk.css.map": "/planten/static/css/main.75c7502f.chunk.css.map",
+    "static/js/2.5f84d2d5.chunk.js.LICENSE.txt": "/planten/static/js/2.5f84d2d5.chunk.js.LICENSE.txt",
+    "static/media/card.styles.css": "/planten/static/media/HelveticaNowText-Medium.3f2720c5.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.832b2cf0.js",
+    "static/js/2.5f84d2d5.chunk.js",
+    "static/css/main.75c7502f.chunk.css",
+    "static/js/main.e6465c96.chunk.js"
+  ]
+}
